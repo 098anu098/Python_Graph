@@ -1,0 +1,1 @@
+Python script to create a graph using matplotlib and numpy with python version 3.10
